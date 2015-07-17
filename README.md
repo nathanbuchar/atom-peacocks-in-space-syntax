@@ -2,4 +2,5 @@
 
 A port of [Dayle Rees'](http://sublime.daylerees.com/) Peacocks In Space theme for Sublime.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![screenshot-1](https://raw.githubusercontent.com/nathanbuchar/atom-peacocks-in-space-syntax/master/screenshots/screenshot-1.png)
+![screenshot-2](https://raw.githubusercontent.com/nathanbuchar/atom-peacocks-in-space-syntax/master/screenshots/screenshot-2.png)
