@@ -1,4 +1,4 @@
-# Peacocks in Space theme
+# Peacocks In Space syntax theme
 
 A port of [Dayle Rees'](http://sublime.daylerees.com/) Peacocks In Space theme for Sublime.
 
