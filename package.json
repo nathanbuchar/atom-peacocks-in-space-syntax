@@ -5,7 +5,12 @@
   "description": "A port of Dayle Rees' \"Peacocks In Space\" theme for Sublime.",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "peacocks",
+    "space",
+    "spacegray",
+    "dark",
+    "clean"
   ],
   "repository": "github.com/nathanbuchar/atom-peacocks-in-space-syntax.git",
   "license": "MIT",
