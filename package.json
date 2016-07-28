@@ -1,7 +1,7 @@
 {
   "name": "peacocks-in-space-syntax",
   "theme": "syntax",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "A port of Dayle Rees' \"Peacocks In Space\" theme for Sublime.",
   "keywords": [
     "syntax",
