@@ -191,10 +191,18 @@ atom-text-editor .wrap-guide, atom-text-editor::shadow .wrap-guide {
 
 .meta.structure.dictionary.json .string.quoted.double.json {
   color: @red;
+
+  .punctuation.begin, .punctuation.end {
+    color: @red;
+  }
 }
 
 .meta.structure.dictionary.value.json .string.quoted.double.json {
   color: @green;
+
+  .punctuation.begin, .punctuation.end {
+    color: @green;
+  }
 }
 
 .meta.property-name .support.type.property-name {
